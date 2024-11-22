@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/idx/static/css/main.e6c13ad2.css",
+    "main.js": "/idx/static/js/main.f71e01cb.js",
+    "static/js/453.079e6e4e.chunk.js": "/idx/static/js/453.079e6e4e.chunk.js",
+    "static/media/argentina.png": "/idx/static/media/argentina.11ad6d6bfad0b584d316.png",
+    "static/media/chile.png": "/idx/static/media/chile.541249b475535e2d2a54.png",
+    "static/media/colombia.png": "/idx/static/media/colombia.dfd63e99f3c1e1734183.png",
+    "index.html": "/idx/index.html",
+    "main.e6c13ad2.css.map": "/idx/static/css/main.e6c13ad2.css.map",
+    "main.f71e01cb.js.map": "/idx/static/js/main.f71e01cb.js.map",
+    "453.079e6e4e.chunk.js.map": "/idx/static/js/453.079e6e4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f71e01cb.js"
+  ]
+}
